@@ -1,6 +1,6 @@
-# azr-tf-module-template
+# azr-tf-module-private-endpoint
 
-[Terraform](https://www.terraform.io) Module to create **[NAME]** in Azure
+[Terraform](https://www.terraform.io) Module to create **Private Endpoint** in Azure
 
 <!-- BEGIN_TF_DOCS -->
 ## Prerequisites
